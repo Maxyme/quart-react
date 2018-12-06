@@ -1,0 +1,7 @@
+name: quart
+channels:
+  - conda-forge
+dependencies:
+  - python =3.7.1
+  - quart =0.6.10
+  - pytest =4.0.1
